@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+![Octocat](/icons/fine.png)
+
 core + fine = corefine
 
 corefine by Fe.
@@ -26,6 +29,8 @@ maven仓库地址: https://repo1.maven.org/maven2/org/corefine
 
 
 # docker hub
+
+![Octocat](/icons/docker.png)
 
 ## mysql-master
 
@@ -57,3 +62,15 @@ ubuntu已经安装了一些常用组件，并开启了ssh服务。
 基于nginx的tcp代理实现，支持docker单机和swarm两种模式。
 
 仓库地址: https://hub.docker.com/r/fine/nginx-proxy
+
+
+# gitee
+
+地址：https://gitee.com/corefine
+
+# about Fe
+
+![Octocat](/icons/fe.png)
+
+联系我: fe@corefine.org
+
