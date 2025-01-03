@@ -11,21 +11,21 @@ corefine by Fe.
 # github & maven
 
 
-github地址: https://github.com/corefine
+github地址: [https://github.com/corefine](https://github.com/corefine)
 
-maven仓库地址: https://repo1.maven.org/maven2/org/corefine
+maven仓库地址: [https://repo1.maven.org/maven2/org/corefine](https://repo1.maven.org/maven2/org/corefine)
 
 ## common
 
-仓库地址: https://github.com/corefine/common
+仓库地址: [https://github.com/corefine/common](https://github.com/corefine/common)
 
-通用组件库: https://repo1.maven.org/maven2/org/corefine/common/
+通用组件库: [https://repo1.maven.org/maven2/org/corefine/common/](https://repo1.maven.org/maven2/org/corefine/common/)
 
 ## fine-demo
 
-仓库地址: https://github.com/corefine/fine-demo
+仓库地址: [https://github.com/corefine/fine-demo](https://github.com/corefine/fine-demo)
 
-优秀demo库: https://repo1.maven.org/maven2/org/corefine/demo/
+优秀demo库: [https://repo1.maven.org/maven2/org/corefine/demo/](https://repo1.maven.org/maven2/org/corefine/demo/)
 
 
 # docker hub
