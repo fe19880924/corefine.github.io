@@ -72,5 +72,5 @@ ubuntu已经安装了一些常用组件，并开启了ssh服务。
 
 ![Octocat](/icons/fe.png)
 
-联系我: fe@corefine.org
+联系我: <mailto:fe@corefine.org>
 
