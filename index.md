@@ -36,37 +36,37 @@ maven仓库地址: https://repo1.maven.org/maven2/org/corefine
 
 mysql主节点，已开启binlog日志。
 
-仓库地址: https://hub.docker.com/r/fine/mysql-master
+仓库地址: [https://hub.docker.com/r/fine/mysql-master](https://hub.docker.com/r/fine/mysql-master)
 
 ## mysql-replica
 mysql从节点，配置主节点。
 
-仓库地址: https://hub.docker.com/r/fine/mysql-replica
+仓库地址: [https://hub.docker.com/r/fine/mysql-replica](https://hub.docker.com/r/fine/mysql-replica)
 
 ## centos
 centos已经安装了一些常用组件，并开启了ssh服务。
 
-仓库地址: https://hub.docker.com/r/fine/centos
+仓库地址: [https://hub.docker.com/r/fine/centos](https://hub.docker.com/r/fine/centos)
 
 ## ubuntu
 ubuntu已经安装了一些常用组件，并开启了ssh服务。
 
-仓库地址: https://hub.docker.com/r/fine/ubuntu
+仓库地址: [https://hub.docker.com/r/fine/ubuntu](https://hub.docker.com/r/fine/ubuntu)
 
 ## nginx
 相对于普通的nginx，增加了nginx-upstream-dynamic-servers，并对使用方式进行了规化。
 
-仓库地址: https://hub.docker.com/r/fine/nginx
+仓库地址: [https://hub.docker.com/r/fine/nginx](https://hub.docker.com/r/fine/nginx)
 
 ## nginx-proxy
 基于nginx的tcp代理实现，支持docker单机和swarm两种模式。
 
-仓库地址: https://hub.docker.com/r/fine/nginx-proxy
+仓库地址: [https://hub.docker.com/r/fine/nginx-proxy](https://hub.docker.com/r/fine/nginx-proxy)
 
 
 # gitee
 
-地址：https://gitee.com/corefine
+地址：[https://gitee.com/corefine](https://gitee.com/corefine)
 
 # about Fe
 
