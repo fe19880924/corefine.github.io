@@ -1,123 +1,59 @@
 ---
 layout: default
 ---
+core + fine = corefine
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+corefine by Fe.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# github & maven
 
 
-### Definition lists can be used with HTML syntax.
+github地址: https://github.com/corefine
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+maven仓库地址: https://repo1.maven.org/maven2/org/corefine
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## common
 
-```
-The final element.
-```
+仓库地址: https://github.com/corefine/common
+
+通用组件库: https://repo1.maven.org/maven2/org/corefine/common/
+
+## fine-demo
+
+仓库地址: https://github.com/corefine/fine-demo
+
+优秀demo库: https://repo1.maven.org/maven2/org/corefine/demo/
+
+
+# docker hub
+
+## mysql-master
+
+mysql主节点，已开启binlog日志。
+
+仓库地址: https://hub.docker.com/r/fine/mysql-master
+
+## mysql-replica
+mysql从节点，配置主节点。
+
+仓库地址: https://hub.docker.com/r/fine/mysql-replica
+
+## centos
+centos已经安装了一些常用组件，并开启了ssh服务。
+
+仓库地址: https://hub.docker.com/r/fine/centos
+
+## ubuntu
+ubuntu已经安装了一些常用组件，并开启了ssh服务。
+
+仓库地址: https://hub.docker.com/r/fine/ubuntu
+
+## nginx
+相对于普通的nginx，增加了nginx-upstream-dynamic-servers，并对使用方式进行了规化。
+
+仓库地址: https://hub.docker.com/r/fine/nginx
+
+## nginx-proxy
+基于nginx的tcp代理实现，支持docker单机和swarm两种模式。
+
+仓库地址: https://hub.docker.com/r/fine/nginx-proxy
